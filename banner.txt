@@ -1,0 +1,1 @@
+220 ProFTPD 1.3.4a Server (FTP) [Ubuntu]
